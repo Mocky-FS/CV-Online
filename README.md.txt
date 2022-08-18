@@ -11,5 +11,5 @@ package.json > changer le script et mettre "sass": "sass -w scss:css"
 pour mettre en route le sass en continue il faut 
 
 npm run sass
-
+npm install pour réinstaller les dépendances des dossiers
 fin
